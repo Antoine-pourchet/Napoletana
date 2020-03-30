@@ -2,21 +2,29 @@
 	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 50%), url(../../images/background.jpeg);
 	color: white;
 	padding-top: 150px 0px;
-	background-size: cover;
+	background-size: no-repeat;
 	background-position: center;
-	margin-bottom: 10px;
+	margin-bottom: 200px;
+	margin-top: 0px;
 }
+
 
 .banner h1 {
 	color: white;
-	font-size: 50px;
+	font-size: 75px;
 	margin-top: 0px;
+	margin-bottom: 200px;
+	text-align: center;
 }
+
 
 .banner h2 {
 	color: white;
 	font-size: 30px;
 	font-weight: lighter;
 	opacity: 0.8;
-	margin-bottom: 100px; 
+	margin-top: 100px;
+	margin-bottom: 400px; 
+	text-align: center;
 }
+

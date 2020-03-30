@@ -1,5 +1,6 @@
 
 @import url(https://fonts.googleapis.com/css?family=Lora|Roboto);
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
 @import url("components/container.css");
 @import url("components/avatar.css");
 @import url("components/button.css");
@@ -11,10 +12,28 @@ body {
 	font-size: 18px;
 	margin: 0px;
 }
-h1, h2, h3 {
-	font font-family: 'roboto', sans-serif;
+h1 {
+	font-family: 'Lora', sans-serif;
 	font-size: bold;
-	margin-top: 100px;
+	margin-top: 500px;
+}
+
+h2 {
+	font-family: 'Dancing Script', serif;
+
+}
+
+h4 {
+	font-size: 50px;
+	font-family: 'Dancing Script', serif;
+}
+
+h5 {
+	font-size: 20px;
+	font-family: 'Dancing Script', sans-serif;
+	text-align: center;
+
+
 }
 
 a {
